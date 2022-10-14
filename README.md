@@ -1,2 +1,2 @@
-# example-Quantum-Mechanics
-If you're wondering what sorts of programming a physics undergrad does, look here. These were the labs from 'Applications of Quantum Mechanics.'
+# Quantum Mechanics Labs 
+These were the labs from 'Applications of Quantum Mechanics,' a course I took at Cornell. This was my first introduction to programming. For the most part, these labs were about taking knowledge I already had and converting it into a useful format for computing. The challenge was figuring out how to model problems that I understood on paper into a numerical method that could be used to calculate and simulate problems that stubbornly reject closed-form solutions. 
